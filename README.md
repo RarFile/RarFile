@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RarFile I also go by Kei
+- 👀 I’m interested in Java but still not very good at it!
+- 🌱 I’m currently learning SAP ABAP.
+- 📫 How to reach me, well if you're here you probably know how to reach me
